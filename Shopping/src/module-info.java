@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jrphilip
+ *
+ */
+module Shopping {
+}
